@@ -1,0 +1,16 @@
+\babel@toc {polish}{}\relax 
+\beamer@sectionintoc {1}{Analiza Tweetów Donalda Trumpa}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Aktywność i Charakterystyka Treści}{5}{0}{1}
+\beamer@subsectionintoc {1}{2}{Hashtagi, Wzmianki i Bigramy}{9}{0}{1}
+\beamer@subsectionintoc {1}{3}{Analiza Sentymentu}{12}{0}{1}
+\beamer@sectionintoc {2}{Wędrówka Biegunów Geomagnetycznych}{13}{0}{2}
+\beamer@subsectionintoc {2}{1}{Północny Biegun Geomagnetyczny (IGRF)}{15}{0}{2}
+\beamer@subsectionintoc {2}{2}{Dane Deklinacji Magnetycznej (GRSM)}{17}{0}{2}
+\beamer@sectionintoc {3}{Analiza Wyników Zawodów Speedcubingowych}{20}{0}{3}
+\beamer@subsectionintoc {3}{1}{Rozkład Czasów i Dominacja Krajów}{22}{0}{3}
+\beamer@subsectionintoc {3}{2}{Wyniki Najlepszych Zawodników}{25}{0}{3}
+\beamer@subsectionintoc {3}{3}{Charakterystyka Zawodów}{29}{0}{3}
+\beamer@sectionintoc {4}{Analiza Incydentów na Slackline}{34}{0}{4}
+\beamer@subsectionintoc {4}{1}{Trendy i Rodzaje Urazów}{36}{0}{4}
+\beamer@subsectionintoc {4}{2}{Typy Incydentów i Slackline'ów}{40}{0}{4}
+\beamer@subsectionintoc {4}{3}{Geografia i Analiza Szczegółowa}{44}{0}{4}

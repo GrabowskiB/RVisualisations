@@ -1,0 +1,770 @@
+PWD c:\Users\barte\OneDrive\Pulpit\R\Latex
+INPUT C:\Users\barte\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\barte\OneDrive\Pulpit\R\Latex\WizualizacjaR.tex
+OUTPUT WizualizacjaR.log
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamer.cls
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamer.cls
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasemodes.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasemodes.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasedecode.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasedecode.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbaseoptions.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbaseoptions.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfutil-common.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfutil-latex.def
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfkeyslibraryfiltered.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathutil.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathparser.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathcalc.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfloat.code.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgf.cfg
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfint.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\xxcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\xxcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\auxhook\auxhook.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\atveryend\atveryend.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\atveryend-ltx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\atveryend-ltx.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbaserequires.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbaserequires.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasecompatibility.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasecompatibility.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasefont.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasefont.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\sansmathaccent\sansmathaccent.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\sansmathaccent\sansmathaccent.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\sansmathaccent\sansmathaccent.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrlfile-hook.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrlfile-hook.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrlogo.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrlogo.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasetranslator.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasetranslator.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\translator\translator.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\translator\translator.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasemisc.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasemisc.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasetwoscreens.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasetwoscreens.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbaseoverlay.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbaseoverlay.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasetitle.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasetitle.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasesection.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasesection.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbaseframe.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbaseframe.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbaseverbatim.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbaseverbatim.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbaseframesize.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbaseframesize.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbaseframecomponents.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbaseframecomponents.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasecolor.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasecolor.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasenotes.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasenotes.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasetoc.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasetoc.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasetemplates.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasetemplates.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbaseauxtemplates.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbaseauxtemplates.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbaseboxes.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbaseboxes.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbaselocalstructure.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbaselocalstructure.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasenavigation.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasenavigation.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasenavigationsymbols.tex
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasenavigationsymbols.tex
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasenavigationsymbols.tex
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasenavigationsymbols.tex
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasenavigationsymbols.tex
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasetheorems.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasetheorems.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\amscls\amsthm.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\amscls\amsthm.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasethemes.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerbasethemes.sty
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss10.tfm
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerthemedefault.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerthemedefault.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerfontthemedefault.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerfontthemedefault.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamercolorthemedefault.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamercolorthemedefault.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerinnerthemedefault.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerinnerthemedefault.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamericonbook.pdf
+OUTPUT WizualizacjaR.pdf
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamericonbook.pdf
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamericonbook.pdf
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamericonbook.20.pdf
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamericonbook.20.pdf
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamericonbook.20.pdf
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamericonarticle.pdf
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamericonarticle.pdf
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamericonarticle.pdf
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamericonarticle.20.pdf
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamericonarticle.20.pdf
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamericonarticle.20.pdf
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamericononline.pdf
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamericononline.pdf
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamericononline.pdf
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamericononline.20.pdf
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamericononline.20.pdf
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamericononline.20.pdf
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerouterthemedefault.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamerouterthemedefault.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamertheme-metropolis\beamerthememetropolis.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamertheme-metropolis\beamerthememetropolis.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\pgfopts\pgfopts.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\pgfopts\pgfopts.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamertheme-metropolis\beamerinnerthememetropolis.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamertheme-metropolis\beamerinnerthememetropolis.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamertheme-metropolis\beamerouterthememetropolis.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamertheme-metropolis\beamerouterthememetropolis.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamertheme-metropolis\beamercolorthememetropolis.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamertheme-metropolis\beamercolorthememetropolis.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamertheme-metropolis\beamerfontthememetropolis.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamertheme-metropolis\beamerfontthememetropolis.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\grffile\grffile.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\grffile\grffile.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecss1000.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\lmodern.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\lmodern.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\txtbabel.def
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\babel-polish\polish.ldf
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\babel-polish\polish.ldf
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\babel-polish\polish.ldf
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\pl\babel-polish.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\pl\babel-polish.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\pl\babel-polish.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\pl\babel-pl.ini
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\t1lmss.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\t1lmss.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\t1lmss.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmss10.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\WizualizacjaR.aux
+INPUT .\WizualizacjaR.aux
+INPUT WizualizacjaR.aux
+OUTPUT WizualizacjaR.aux
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT .\WizualizacjaR.out
+INPUT .\WizualizacjaR.out
+INPUT WizualizacjaR.out
+INPUT WizualizacjaR.out
+INPUT .\WizualizacjaR.out
+INPUT .\WizualizacjaR.out
+OUTPUT WizualizacjaR.out
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\translator\translator-basic-dictionary-English.dict
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\translator\translator-basic-dictionary-English.dict
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\translator\translator-basic-dictionary-English.dict
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\translator\translator-bibliography-dictionary-English.dict
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\translator\translator-bibliography-dictionary-English.dict
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\translator\translator-bibliography-dictionary-English.dict
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\translator\translator-environment-dictionary-English.dict
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\translator\translator-environment-dictionary-English.dict
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\translator\translator-environment-dictionary-English.dict
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\translator\translator-months-dictionary-English.dict
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\translator\translator-months-dictionary-English.dict
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\translator\translator-months-dictionary-English.dict
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\translator\translator-numbers-dictionary-English.dict
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\translator\translator-numbers-dictionary-English.dict
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\translator\translator-numbers-dictionary-English.dict
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\translator\translator-theorem-dictionary-English.dict
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\translator\translator-theorem-dictionary-English.dict
+INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\translator\translator-theorem-dictionary-English.dict
+INPUT .\WizualizacjaR.nav
+INPUT .\WizualizacjaR.nav
+INPUT WizualizacjaR.nav
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmss8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmss8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmss12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmssbx10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmss12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmss9.tfm
+INPUT C:\Users\barte\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
+INPUT .\WizualizacjaR.toc
+INPUT .\WizualizacjaR.toc
+INPUT WizualizacjaR.toc
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmssbx10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmss8.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\ot1lmss.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\ot1lmss.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\ot1lmss.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\rm-lmss10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\rm-lmss8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\rm-lmss8.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\omllmm.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\omllmm.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\omllmm.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\lmmi10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\lmmi7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\lmmi5.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\omslmsy.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\omslmsy.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\omslmsy.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\lmsy10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\lmsy7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\lmsy5.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\omxlmex.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\omxlmex.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\omxlmex.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\lmex10.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmsso10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmsso8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmsso8.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\ts1lmss.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\ts1lmss.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\lm\ts1lmss.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ts1-lmss10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\lm\lm-ts1.enc
+INPUT .\liczba_tweetow_miesiecznie.png
+INPUT .\liczba_tweetow_miesiecznie.png
+INPUT .\liczba_tweetow_miesiecznie.png
+INPUT .\liczba_tweetow_miesiecznie.png
+INPUT .\liczba_tweetow_miesiecznie.png
+INPUT .\liczba_tweetow_miesiecznie.png
+INPUT .\liczba_tweetow_miesiecznie.png
+INPUT .\rozklad_dlugosci_tweetow.png
+INPUT .\rozklad_dlugosci_tweetow.png
+INPUT .\rozklad_dlugosci_tweetow.png
+INPUT .\rozklad_dlugosci_tweetow.png
+INPUT .\rozklad_dlugosci_tweetow.png
+INPUT .\rozklad_dlugosci_tweetow.png
+INPUT .\rozklad_dlugosci_tweetow.png
+INPUT .\chmuraslow.png
+INPUT .\chmuraslow.png
+INPUT .\chmuraslow.png
+INPUT .\chmuraslow.png
+INPUT .\chmuraslow.png
+INPUT .\chmuraslow.png
+INPUT .\chmuraslow.png
+INPUT .\top20_slow.png
+INPUT .\top20_slow.png
+INPUT .\top20_slow.png
+INPUT .\top20_slow.png
+INPUT .\top20_slow.png
+INPUT .\top20_slow.png
+INPUT .\top20_slow.png
+INPUT .\top20_hashtagi.png
+INPUT .\top20_hashtagi.png
+INPUT .\top20_hashtagi.png
+INPUT .\top20_hashtagi.png
+INPUT .\top20_hashtagi.png
+INPUT .\top20_hashtagi.png
+INPUT .\top20_hashtagi.png
+INPUT .\top20_wzmianki.png
+INPUT .\top20_wzmianki.png
+INPUT .\top20_wzmianki.png
+INPUT .\top20_wzmianki.png
+INPUT .\top20_wzmianki.png
+INPUT .\top20_wzmianki.png
+INPUT .\top20_wzmianki.png
+INPUT .\top20_bigramy.png
+INPUT .\top20_bigramy.png
+INPUT .\top20_bigramy.png
+INPUT .\top20_bigramy.png
+INPUT .\top20_bigramy.png
+INPUT .\top20_bigramy.png
+INPUT .\top20_bigramy.png
+INPUT .\analiza_sentymentu_bing.png
+INPUT .\analiza_sentymentu_bing.png
+INPUT .\analiza_sentymentu_bing.png
+INPUT .\analiza_sentymentu_bing.png
+INPUT .\analiza_sentymentu_bing.png
+INPUT .\analiza_sentymentu_bing.png
+INPUT .\analiza_sentymentu_bing.png
+INPUT .\igrf_north_pole_wander_map_labels.png
+INPUT .\igrf_north_pole_wander_map_labels.png
+INPUT .\igrf_north_pole_wander_map_labels.png
+INPUT .\igrf_north_pole_wander_map_labels.png
+INPUT .\igrf_north_pole_wander_map_labels.png
+INPUT .\igrf_north_pole_wander_map_labels.png
+INPUT .\igrf_north_pole_wander_map_labels.png
+INPUT .\igrf_north_pole_latitude_vs_time.png
+INPUT .\igrf_north_pole_latitude_vs_time.png
+INPUT .\igrf_north_pole_latitude_vs_time.png
+INPUT .\igrf_north_pole_latitude_vs_time.png
+INPUT .\igrf_north_pole_latitude_vs_time.png
+INPUT .\igrf_north_pole_latitude_vs_time.png
+INPUT .\igrf_north_pole_latitude_vs_time.png
+INPUT .\igrf_north_pole_longitude_vs_time.png
+INPUT .\igrf_north_pole_longitude_vs_time.png
+INPUT .\igrf_north_pole_longitude_vs_time.png
+INPUT .\igrf_north_pole_longitude_vs_time.png
+INPUT .\igrf_north_pole_longitude_vs_time.png
+INPUT .\igrf_north_pole_longitude_vs_time.png
+INPUT .\igrf_north_pole_longitude_vs_time.png
+INPUT .\grsm_declination_map.png
+INPUT .\grsm_declination_map.png
+INPUT .\grsm_declination_map.png
+INPUT .\grsm_declination_map.png
+INPUT .\grsm_declination_map.png
+INPUT .\grsm_declination_map.png
+INPUT .\grsm_declination_map.png
+INPUT .\grsm_declination_histogram.png
+INPUT .\grsm_declination_histogram.png
+INPUT .\grsm_declination_histogram.png
+INPUT .\grsm_declination_histogram.png
+INPUT .\grsm_declination_histogram.png
+INPUT .\grsm_declination_histogram.png
+INPUT .\grsm_declination_histogram.png
+INPUT .\grsm_annual_drift_histogram.png
+INPUT .\grsm_annual_drift_histogram.png
+INPUT .\grsm_annual_drift_histogram.png
+INPUT .\grsm_annual_drift_histogram.png
+INPUT .\grsm_annual_drift_histogram.png
+INPUT .\grsm_annual_drift_histogram.png
+INPUT .\grsm_annual_drift_histogram.png
+INPUT .\grsm_declination_vs_latitude.png
+INPUT .\grsm_declination_vs_latitude.png
+INPUT .\grsm_declination_vs_latitude.png
+INPUT .\grsm_declination_vs_latitude.png
+INPUT .\grsm_declination_vs_latitude.png
+INPUT .\grsm_declination_vs_latitude.png
+INPUT .\grsm_declination_vs_latitude.png
+INPUT .\grsm_declination_vs_longitude.png
+INPUT .\grsm_declination_vs_longitude.png
+INPUT .\grsm_declination_vs_longitude.png
+INPUT .\grsm_declination_vs_longitude.png
+INPUT .\grsm_declination_vs_longitude.png
+INPUT .\grsm_declination_vs_longitude.png
+INPUT .\grsm_declination_vs_longitude.png
+INPUT .\02b_rozkłady_czasow_łączone.png
+INPUT .\02b_rozkłady_czasow_łączone.png
+INPUT .\02b_rozkłady_czasow_łączone.png
+INPUT .\02b_rozkłady_czasow_łączone.png
+INPUT .\02b_rozkłady_czasow_łączone.png
+INPUT .\02b_rozkłady_czasow_łączone.png
+INPUT .\02b_rozkłady_czasow_łączone.png
+INPUT .\04b_top10_krajow_łączone.png
+INPUT .\04b_top10_krajow_łączone.png
+INPUT .\04b_top10_krajow_łączone.png
+INPUT .\04b_top10_krajow_łączone.png
+INPUT .\04b_top10_krajow_łączone.png
+INPUT .\04b_top10_krajow_łączone.png
+INPUT .\04b_top10_krajow_łączone.png
+INPUT .\15_mapa_zawodnicy_srednie.png
+INPUT .\15_mapa_zawodnicy_srednie.png
+INPUT .\15_mapa_zawodnicy_srednie.png
+INPUT .\15_mapa_zawodnicy_srednie.png
+INPUT .\15_mapa_zawodnicy_srednie.png
+INPUT .\15_mapa_zawodnicy_srednie.png
+INPUT .\15_mapa_zawodnicy_srednie.png
+INPUT .\06b_czas_vs_ranking_łączone.png
+INPUT .\06b_czas_vs_ranking_łączone.png
+INPUT .\06b_czas_vs_ranking_łączone.png
+INPUT .\06b_czas_vs_ranking_łączone.png
+INPUT .\06b_czas_vs_ranking_łączone.png
+INPUT .\06b_czas_vs_ranking_łączone.png
+INPUT .\06b_czas_vs_ranking_łączone.png
+INPUT .\10_top10_zawodnikow_srednie.png
+INPUT .\10_top10_zawodnikow_srednie.png
+INPUT .\10_top10_zawodnikow_srednie.png
+INPUT .\10_top10_zawodnikow_srednie.png
+INPUT .\10_top10_zawodnikow_srednie.png
+INPUT .\10_top10_zawodnikow_srednie.png
+INPUT .\10_top10_zawodnikow_srednie.png
+INPUT .\09_porownanie_czasow_pojed_sred.png
+INPUT .\09_porownanie_czasow_pojed_sred.png
+INPUT .\09_porownanie_czasow_pojed_sred.png
+INPUT .\09_porownanie_czasow_pojed_sred.png
+INPUT .\09_porownanie_czasow_pojed_sred.png
+INPUT .\09_porownanie_czasow_pojed_sred.png
+INPUT .\09_porownanie_czasow_pojed_sred.png
+INPUT .\14_boxplot_srednie_top5_kraje.png
+INPUT .\14_boxplot_srednie_top5_kraje.png
+INPUT .\14_boxplot_srednie_top5_kraje.png
+INPUT .\14_boxplot_srednie_top5_kraje.png
+INPUT .\14_boxplot_srednie_top5_kraje.png
+INPUT .\14_boxplot_srednie_top5_kraje.png
+INPUT .\14_boxplot_srednie_top5_kraje.png
+INPUT .\07_liczba_zawodow_lata.png
+INPUT .\07_liczba_zawodow_lata.png
+INPUT .\07_liczba_zawodow_lata.png
+INPUT .\07_liczba_zawodow_lata.png
+INPUT .\07_liczba_zawodow_lata.png
+INPUT .\07_liczba_zawodow_lata.png
+INPUT .\07_liczba_zawodow_lata.png
+INPUT .\08_top15_kraje_organizujace.png
+INPUT .\08_top15_kraje_organizujace.png
+INPUT .\08_top15_kraje_organizujace.png
+INPUT .\08_top15_kraje_organizujace.png
+INPUT .\08_top15_kraje_organizujace.png
+INPUT .\08_top15_kraje_organizujace.png
+INPUT .\08_top15_kraje_organizujace.png
+INPUT .\12b_rekordy_rok_łączone.png
+INPUT .\12b_rekordy_rok_łączone.png
+INPUT .\12b_rekordy_rok_łączone.png
+INPUT .\12b_rekordy_rok_łączone.png
+INPUT .\12b_rekordy_rok_łączone.png
+INPUT .\12b_rekordy_rok_łączone.png
+INPUT .\12b_rekordy_rok_łączone.png
+INPUT .\13_top10_zawody_rekordy_srednie.png
+INPUT .\13_top10_zawody_rekordy_srednie.png
+INPUT .\13_top10_zawody_rekordy_srednie.png
+INPUT .\13_top10_zawody_rekordy_srednie.png
+INPUT .\13_top10_zawody_rekordy_srednie.png
+INPUT .\13_top10_zawody_rekordy_srednie.png
+INPUT .\13_top10_zawody_rekordy_srednie.png
+INPUT .\17_unikalne_kraje_rekordy_srednie_lata.png
+INPUT .\17_unikalne_kraje_rekordy_srednie_lata.png
+INPUT .\17_unikalne_kraje_rekordy_srednie_lata.png
+INPUT .\17_unikalne_kraje_rekordy_srednie_lata.png
+INPUT .\17_unikalne_kraje_rekordy_srednie_lata.png
+INPUT .\17_unikalne_kraje_rekordy_srednie_lata.png
+INPUT .\17_unikalne_kraje_rekordy_srednie_lata.png
+INPUT .\01_incydenty_lata.png
+INPUT .\01_incydenty_lata.png
+INPUT .\01_incydenty_lata.png
+INPUT .\01_incydenty_lata.png
+INPUT .\01_incydenty_lata.png
+INPUT .\01_incydenty_lata.png
+INPUT .\01_incydenty_lata.png
+INPUT .\02_top10_rodzaje_urazow.png
+INPUT .\02_top10_rodzaje_urazow.png
+INPUT .\02_top10_rodzaje_urazow.png
+INPUT .\02_top10_rodzaje_urazow.png
+INPUT .\02_top10_rodzaje_urazow.png
+INPUT .\02_top10_rodzaje_urazow.png
+INPUT .\02_top10_rodzaje_urazow.png
+INPUT .\03_top10_lokalizacje_urazow.png
+INPUT .\03_top10_lokalizacje_urazow.png
+INPUT .\03_top10_lokalizacje_urazow.png
+INPUT .\03_top10_lokalizacje_urazow.png
+INPUT .\03_top10_lokalizacje_urazow.png
+INPUT .\03_top10_lokalizacje_urazow.png
+INPUT .\03_top10_lokalizacje_urazow.png
+INPUT .\07_odsetek_urazy_vs_bez.png
+INPUT .\07_odsetek_urazy_vs_bez.png
+INPUT .\07_odsetek_urazy_vs_bez.png
+INPUT .\07_odsetek_urazy_vs_bez.png
+INPUT .\07_odsetek_urazy_vs_bez.png
+INPUT .\07_odsetek_urazy_vs_bez.png
+INPUT .\07_odsetek_urazy_vs_bez.png
+INPUT .\04_top10_typy_incydentow.png
+INPUT .\04_top10_typy_incydentow.png
+INPUT .\04_top10_typy_incydentow.png
+INPUT .\04_top10_typy_incydentow.png
+INPUT .\04_top10_typy_incydentow.png
+INPUT .\04_top10_typy_incydentow.png
+INPUT .\04_top10_typy_incydentow.png
+INPUT .\05_incydenty_rodzaj_slackline.png
+INPUT .\05_incydenty_rodzaj_slackline.png
+INPUT .\05_incydenty_rodzaj_slackline.png
+INPUT .\05_incydenty_rodzaj_slackline.png
+INPUT .\05_incydenty_rodzaj_slackline.png
+INPUT .\05_incydenty_rodzaj_slackline.png
+INPUT .\05_incydenty_rodzaj_slackline.png
+INPUT .\08_urazy_wg_typu_slackline.png
+INPUT .\08_urazy_wg_typu_slackline.png
+INPUT .\08_urazy_wg_typu_slackline.png
+INPUT .\08_urazy_wg_typu_slackline.png
+INPUT .\08_urazy_wg_typu_slackline.png
+INPUT .\08_urazy_wg_typu_slackline.png
+INPUT .\08_urazy_wg_typu_slackline.png
+INPUT .\12_injury_vs_nearmiss_typ_slackline.png
+INPUT .\12_injury_vs_nearmiss_typ_slackline.png
+INPUT .\12_injury_vs_nearmiss_typ_slackline.png
+INPUT .\12_injury_vs_nearmiss_typ_slackline.png
+INPUT .\12_injury_vs_nearmiss_typ_slackline.png
+INPUT .\12_injury_vs_nearmiss_typ_slackline.png
+INPUT .\12_injury_vs_nearmiss_typ_slackline.png
+INPUT .\06_top10_kraje_incydenty.png
+INPUT .\06_top10_kraje_incydenty.png
+INPUT .\06_top10_kraje_incydenty.png
+INPUT .\06_top10_kraje_incydenty.png
+INPUT .\06_top10_kraje_incydenty.png
+INPUT .\06_top10_kraje_incydenty.png
+INPUT .\06_top10_kraje_incydenty.png
+INPUT .\10_mapa_incydenty_kraje.png
+INPUT .\10_mapa_incydenty_kraje.png
+INPUT .\10_mapa_incydenty_kraje.png
+INPUT .\10_mapa_incydenty_kraje.png
+INPUT .\10_mapa_incydenty_kraje.png
+INPUT .\10_mapa_incydenty_kraje.png
+INPUT .\10_mapa_incydenty_kraje.png
+INPUT .\14_heatmap_uraz_lokalizacja.png
+INPUT .\14_heatmap_uraz_lokalizacja.png
+INPUT .\14_heatmap_uraz_lokalizacja.png
+INPUT .\14_heatmap_uraz_lokalizacja.png
+INPUT .\14_heatmap_uraz_lokalizacja.png
+INPUT .\14_heatmap_uraz_lokalizacja.png
+INPUT .\14_heatmap_uraz_lokalizacja.png
+INPUT .\13_alluvial_slack_uraz_lok.png
+INPUT .\13_alluvial_slack_uraz_lok.png
+INPUT .\13_alluvial_slack_uraz_lok.png
+INPUT .\13_alluvial_slack_uraz_lok.png
+INPUT .\13_alluvial_slack_uraz_lok.png
+INPUT .\13_alluvial_slack_uraz_lok.png
+INPUT .\13_alluvial_slack_uraz_lok.png
+INPUT .\15a_death_wg_kraju.png
+INPUT .\15a_death_wg_kraju.png
+INPUT .\15a_death_wg_kraju.png
+INPUT .\15a_death_wg_kraju.png
+INPUT .\15a_death_wg_kraju.png
+INPUT .\15a_death_wg_kraju.png
+INPUT .\15a_death_wg_kraju.png
+INPUT .\15b_death_wg_typu_slackline.png
+INPUT .\15b_death_wg_typu_slackline.png
+INPUT .\15b_death_wg_typu_slackline.png
+INPUT .\15b_death_wg_typu_slackline.png
+INPUT .\15b_death_wg_typu_slackline.png
+INPUT .\15b_death_wg_typu_slackline.png
+INPUT .\15b_death_wg_typu_slackline.png
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmssbx10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ts1-lmss9.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmss17.tfm
+OUTPUT WizualizacjaR.nav
+OUTPUT WizualizacjaR.toc
+OUTPUT WizualizacjaR.snm
+INPUT WizualizacjaR.aux
+INPUT .\WizualizacjaR.out
+INPUT .\WizualizacjaR.out
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmss10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmss10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmss12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmss12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmss17.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmss17.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmss8.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmss8.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmss9.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmss9.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmssbx10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\lm\lmssbx10.pfb

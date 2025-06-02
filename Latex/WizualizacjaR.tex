@@ -1,0 +1,263 @@
+\documentclass[10pt]{beamer} % Mniejsza czcionka bazowa może być lepsza przy dużej liczbie slajdów
+
+\usetheme{metropolis}       % Nowoczesny motyw
+% \usetheme{Frankfurt}      % Inna popularna alternatywa, jeśli metropolis nie działa
+% \usetheme{CambridgeUS}    % Klasyczny, akademicki
+% \usecolortheme{whale}      % Domyślny dla metropolis, można zmienić
+\usepackage[trueids]{grffile} % Nowsza opcja
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}          % Lepsze czcionki
+\usepackage[polish]{babel}    % Język polski
+\usepackage{graphicx}         % Do włączania obrazków
+\usepackage{booktabs}         % Do ładnych tabel (jeśli będziesz dodawał)
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{hyperref}         % Linki klikalne
+\usepackage{multicol}         % Do układania obrazków w kolumnach
+
+% --- Ustawienia dla Metropolis ---
+% \metroset{block=fill}       % Wypełnione bloki (theorem, example)
+\metroset{numbering=fraction} % Numeracja slajdów jako X/Y
+% \metroset{progressbar=frametitle} % Pasek postępu pod tytułem slajdu
+% \metroset{sectionpage=none}  % Wyłączenie osobnych stron dla sekcji (oszczędność miejsca)
+
+% Definicja kolorów (opcjonalnie)
+% \definecolor{UGreen}{HTML}{007A5E} % Przykład koloru
+% \setbeamercolor{palette primary}{bg=UGreen,fg=white}
+
+\title{Zintegrowana Analiza Danych Wielotematycznych}
+\subtitle{Wizualizacje z Różnych Zbiorów Danych}
+\author{Bartek Grabowski \newline Witold Winiarski} % Zmień na swoje imię i nazwisko
+\date{\today}
+% \institute{Twoja Instytucja/Uczelnia (opcjonalnie)}
+% \logo{\includegraphics[height=1cm]{logo.png}} % Jeśli masz logo
+
+% --- Katalog z wykresami ---
+% Załóżmy, że wykresy są w podkatalogach względem pliku .tex
+\graphicspath{{plots\_trump/}{plots\_bieguny/}{plots\_speedcubing/}{plots\_slackline/}}
+
+% --- Makra ułatwiające wstawianie wykresów ---
+% Wykres na cały slajd
+% Poprawiona definicja makra
+\newcommand{\fullslideimage}[3][width=\textwidth,height=0.75\textheight,keepaspectratio]{
+  \begin{frame}{#3} % Użyj #3 jako tytułu slajdu
+    \begin{figure}
+      \centering
+      \includegraphics[#1]{#2} % Użyj #2 jako nazwy pliku
+    \end{figure}
+  \end{frame}
+}
+
+% Dwa wykresy obok siebie
+\newcommand{\twoslideimages}[4][width=0.48\textwidth,height=0.65\textheight,keepaspectratio]{%
+  \begin{frame}{#4}
+    \begin{columns}[T] % T = top align
+      \begin{column}{0.5\textwidth}
+        \begin{figure}
+          \centering
+          \includegraphics[#1]{#2}
+          % \caption{Podpis pod pierwszym obrazkiem (opcjonalnie)}
+        \end{figure}
+      \end{column}
+      \begin{column}{0.5\textwidth}
+        \begin{figure}
+          \centering
+          \includegraphics[#1]{#3}
+          % \caption{Podpis pod drugim obrazkiem (opcjonalnie)}
+        \end{figure}
+      \end{column}
+    \end{columns}
+  \end{frame}
+}
+
+% Dwa wykresy jeden pod drugim
+\newcommand{\twoimagesstacked}[4][width=0.8\textwidth,height=0.35\textheight,keepaspectratio]{%
+  \begin{frame}{#4}
+    \centering
+    \includegraphics[#1]{#2}\\[1ex] % Pierwszy obrazek
+    \includegraphics[#1]{#3}        % Drugi obrazek
+  \end{frame}
+}
+
+
+\begin{document}
+
+% --- Strona Tytułowa ---
+\maketitle
+
+% --- Spis Treści ---
+\begin{frame}{Spis Treści}
+  \setbeamertemplate{section in toc}[sections numbered]
+  \setbeamertemplate{subsection in toc}[subsections numbered]
+  \tableofcontents
+\end{frame}
+
+% --- Sekcja 1: Analiza Tweetów Trumpa ---
+\section{Analiza Tweetów Donalda Trumpa}
+
+\begin{frame}{Wprowadzenie do Analizy Tweetów}
+  \begin{itemize}
+    \item Analiza zbioru tweetów Donalda Trumpa.
+    \item Cel: Zrozumienie wzorców aktywności, głównych tematów i sentymentu.
+    \item Wykorzystane narzędzia: R, pakiety tidyverse, tidytext, ggplot2.
+  \end{itemize}
+\end{frame}
+
+\subsection{Aktywność i Charakterystyka Treści}
+\fullslideimage{liczba\_tweetow\_miesiecznie.png}{Aktywność Tweetowania w Czasie}
+\fullslideimage{rozklad\_dlugosci\_tweetow.png}{Rozkład Długości Tweetów}
+\fullslideimage{chmuraslow.png}{Chmura Najczęściej Występujących Słów} % Załóżmy, że zapisałeś ją jako PNG
+\fullslideimage{top20\_slow.png}{Top 20 Najczęstszych Słów}
+
+\subsection{Hashtagi, Wzmianki i Bigramy}
+\fullslideimage{top20\_hashtagi.png}{Najpopularniejsze Hashtagi}
+\fullslideimage{top20\_wzmianki.png}{Najczęściej Wzmiankowani Użytkownicy}
+\fullslideimage{top20\_bigramy.png}{Najczęstsze Pary Słów (Bigramy)}
+
+\subsection{Analiza Sentymentu}
+\fullslideimage{analiza\_sentymentu\_bing.png}{Ogólna Analiza Sentymentu (Bing)}
+
+
+% --- Sekcja 2: Wędrówka Biegunów Geomagnetycznych ---
+\section{Wędrówka Biegunów Geomagnetycznych}
+
+\begin{frame}{Wprowadzenie do Biegunów Geomagnetycznych}
+  \begin{itemize}
+    \item Analiza danych dotyczących położenia północnego bieguna geomagnetycznego (model IGRF).
+    \item Analiza danych deklinacji magnetycznej z regionu GRSM\@.
+    \item Cel: Wizualizacja zmian położenia bieguna oraz charakterystyki pola magnetycznego.
+  \end{itemize}
+\end{frame}
+
+\subsection{Północny Biegun Geomagnetyczny (IGRF)}
+\fullslideimage{igrf\_north\_pole\_wander\_map\_labels.png}{Wędrówka Północnego Bieguna Geomagnetycznego (IGRF)}
+\twoimagesstacked{igrf\_north\_pole\_latitude\_vs\_time.png}{igrf\_north\_pole\_longitude\_vs\_time.png}{Zmiany Położenia Północnego Bieguna (IGRF) w Czasie}
+
+\subsection{Dane Deklinacji Magnetycznej (GRSM)}
+\fullslideimage{grsm\_declination\_map.png}{Mapa Deklinacji Magnetycznej (GRSM)}
+\twoslideimages{grsm\_declination\_histogram.png}{grsm\_annual\_drift\_histogram.png}{Rozkład Deklinacji i Rocznego Dryftu (GRSM)}
+\twoimagesstacked{grsm\_declination\_vs\_latitude.png}{grsm\_declination\_vs\_longitude.png}{Zależność Deklinacji od Położenia (GRSM)}
+
+
+% --- Sekcja 3: Analiza Wyników Zawodów (Speedcubing) ---
+\section{Analiza Wyników Zawodów Speedcubingowych}
+% Nazwy plików PNG dla tej sekcji są z Twojego skryptu "speedcubing"
+
+\begin{frame}{Wprowadzenie do Analizy Zawodów Speedcubingowych}
+    \begin{itemize}
+        \item Analiza danych dotyczących najlepszych wyników średnich i pojedynczych oraz ogólnych informacji o zawodach.
+        \item Cel: Identyfikacja trendów, najlepszych zawodników i dominujących krajów.
+    \end{itemize}
+\end{frame}
+
+\subsection{Rozkład Czasów i Dominacja Krajów}
+\fullslideimage{02b\_rozkłady\_czasow\_łączone.png}{Rozkłady Najlepszych Czasów}
+\fullslideimage{04b\_top10\_krajow\_łączone.png}{Top 10 Krajów wg Liczby Zawodników}
+\fullslideimage{15\_mapa\_zawodnicy\_srednie.png}{Mapa Świata: Liczba Zawodników w Rankingu Średnich}
+
+\subsection{Wyniki Najlepszych Zawodników}
+\fullslideimage{06b\_czas\_vs\_ranking\_łączone.png}{Najlepsze Czasy vs Ranking (Top 5 Krajów)}
+\fullslideimage{10\_top10\_zawodnikow\_srednie.png}{Top 10 Zawodników (Najlepsze Średnie)}
+\fullslideimage{09\_porownanie\_czasow\_pojed\_sred.png}{Porównanie Czasów Pojedynczych i Średnich}
+\fullslideimage{14\_boxplot\_srednie\_top5\_kraje.png}{Rozkład Czasów Średnich dla Top 5 Krajów}
+
+
+\subsection{Charakterystyka Zawodów}
+\fullslideimage{07\_liczba\_zawodow\_lata.png}{Liczba Zawodów na Przestrzeni Lat}
+\fullslideimage{08\_top15\_kraje\_organizujace.png}{Kraje Najczęściej Organizujące Zawody}
+\fullslideimage{12b\_rekordy\_rok\_łączone.png}{Liczba Ustanowionych Rekordów wg Roku}
+\fullslideimage{13\_top10\_zawody\_rekordy\_srednie.png}{Zawody z Największą Liczbą Rekordów Średnich}
+\fullslideimage{17\_unikalne\_kraje\_rekordy\_srednie\_lata.png}{Liczba Unikalnych Krajów w Rankingu Średnich (wg Roku Zawodów)}
+
+
+% --- Sekcja 4: Analiza Incydentów na Slackline ---
+\section{Analiza Incydentów na Slackline}
+% Nazwy plików PNG dla tej sekcji są z Twojego skryptu "slackline"
+
+\begin{frame}{Wprowadzenie do Analizy Incydentów na Slackline}
+    \begin{itemize}
+        \item Analiza zgłoszonych incydentów związanych z uprawianiem slackline.
+        \item Cel: Zrozumienie częstotliwości, rodzajów urazów, typów incydentów i czynników ryzyka.
+    \end{itemize}
+\end{frame}
+
+\subsection{Trendy i Rodzaje Urazów}
+\fullslideimage{01\_incydenty\_lata.png}{Liczba Zgłoszonych Incydentów wg Roku}
+\fullslideimage{02\_top10\_rodzaje\_urazow.png}{Top 10 Najczęstszych Rodzajów Urazów}
+\fullslideimage{03\_top10\_lokalizacje\_urazow.png}{Top 10 Najczęstszych Lokalizacji Urazów}
+\fullslideimage{07\_odsetek\_urazy\_vs\_bez.png}{Odsetek Incydentów z Urazami vs Bez Urazów}
+
+\subsection{Typy Incydentów i Slackline'ów}
+\fullslideimage{04\_top10\_typy\_incydentow.png}{Top 10 Najczęstszych Typów Incydentów}
+\fullslideimage{05\_incydenty\_rodzaj\_slackline.png}{Liczba Incydentów wg Rodzaju Slackline'a}
+\fullslideimage{08\_urazy\_wg\_typu\_slackline.png}{Najczęstsze Urazy wg Typu Slackline'a}
+\fullslideimage{12\_injury\_vs\_nearmiss\_typ\_slackline.png}{Porównanie `Injury' vs `Near Miss' wg Typu Slackline'a}
+
+\subsection{Geografia i Analiza Szczegółowa}
+\fullslideimage{06\_top10\_kraje\_incydenty.png}{Top 10 Krajów z Największą Liczbą Incydentów}
+\fullslideimage{10\_mapa\_incydenty\_kraje.png}{Mapa Świata: Liczba Incydentów wg Kraju}
+\fullslideimage{14\_heatmap\_uraz\_lokalizacja.png}{Heatmapa: Rodzaj Urazu vs Lokalizacja}
+% Wykres Alluvial może być duży, rozważ prezentację jego fragmentu lub opisu
+\fullslideimage{13\_alluvial\_slack\_uraz\_lok.png}{Przepływ: Typ Slackline -> Rodzaj Urazu -> Lokalizacja}
+% Analiza przypadków śmiertelnych
+\begin{frame}{Analiza Przypadków Śmiertelnych na Slackline}
+    % Możesz tu wstawić mniejsze obrazki, jeśli masz dla nich miejsce, np. 15a, 15b, 15c
+    \includegraphics[width=0.45\textwidth]{15a\_death\_wg\_kraju.png}
+    \includegraphics[width=0.45\textwidth]{15b\_death\_wg\_typu\_slackline.png}
+\end{frame}
+
+% --- Podsumowanie (opcjonalnie) ---
+\section*{Podsumowanie} % Użyj \section* jeśli nie chcesz numeracji
+\begin{frame}{Podsumowanie i Główne Wnioski (Część 1)}
+  \begin{itemize}
+    \item Przedstawiona zintegrowana analiza danych wielotematycznych, obejmująca tweety Donalda Trumpa, wędrówkę biegunów geomagnetycznych, wyniki zawodów speedcubingowych oraz incydenty na slackline, dostarczyła szeregu interesujących spostrzeżeń.
+
+    \item \textbf{Analiza Tweetów Donalda Trumpa:}
+    \begin{itemize}
+        \item Zaobserwowano zmienną aktywność tweetowania w czasie oraz charakterystyczny rozkład długości treści.
+        \item Identyfikacja kluczowych tematów, słów, hashtagów i wzmiankowanych użytkowników pozwoliła zrozumieć główne narracje.
+        \item Analiza sentymentu (wg Bing) wykazała przewagę treści pozytywnych.
+    \end{itemize}
+
+    \item \textbf{Wędrówka Biegunów Geomagnetycznych:}
+    \begin{itemize}
+        \item Model IGRF ukazał dynamiczną wędrówkę północnego bieguna geomagnetycznego w okresie 1590--2025.
+        \item Dane z regionu GRSM zobrazowały przestrzenne zróżnicowanie deklinacji magnetycznej i jej zależność od lokalizacji.
+    \end{itemize}
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Podsumowanie i Główne Wnioski (Część 2)}
+  \begin{itemize}
+    \item \textbf{Analiza Wyników Zawodów Speedcubingowych:}
+    \begin{itemize}
+        \item Rozkłady czasów wskazują na wysoki poziom rywalizacji; zidentyfikowano dominujące kraje i najlepszych zawodników.
+        \item Zaobserwowano dynamiczny wzrost liczby organizowanych zawodów na przestrzeni lat.
+    \end{itemize}
+
+    \item \textbf{Analiza Incydentów na Slackline:}
+    \begin{itemize}
+        \item Zgłoszenia incydentów wykazywały tendencję wzrostową; zidentyfikowano najczęstsze rodzaje i lokalizacje urazów.
+        \item Analiza typów incydentów, rodzajów slackline'ów oraz danych geograficznych wskazała na obszary szczególnego ryzyka.
+        \item Większość zgłoszonych incydentów wiązała się z urazem.
+    \end{itemize}
+
+    \item \textbf{Ogólne Spostrzeżenia:}
+    \begin{itemize}
+        \item Wizualizacja danych okazała się kluczowym narzędziem w odkrywaniu wzorców i trendów.
+        \item Każdy z analizowanych zbiorów danych oferuje potencjał do dalszych, pogłębionych badań.
+    \end{itemize}
+  \end{itemize}
+\end{frame}
+
+% --- Strona Końcowa ---
+\begin{frame}
+  \centering
+  \Huge Dziękuję za uwagę!
+  \\[2em] % Większy odstęp
+  {\large Pytania?}
+\end{frame}
+
+\end{document}
