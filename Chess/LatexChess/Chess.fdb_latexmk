@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1749032182.73792 "c:/Users/barte/OneDrive/Pulpit/R/Chess/LatexChess/Chess.tex" "Chess.pdf" "Chess" 1749032193.94645 0
+["pdflatex"] 1749538985.48896 "c:/Users/barte/Desktop/Projekty/R/Chess/LatexChess/Chess.tex" "Chess.pdf" "Chess" 1749538998.00317 0
   "../../ChessPlots/elo_diff_hist.png" 1749032166 48911 e02560e93ade6427f3cc2639a9766b6e ""
   "../../ChessPlots/elos_over_time.png" 1749032170 291125 34ada46134501945cf0c9259f29ba955 ""
   "../../ChessPlots/openings_by_decade.png" 1749032168 67616 ebe47cb40b622179bcfde99ca505fd42 ""
@@ -135,7 +135,7 @@
   "C:/Program Files/MiKTeX/tex/latex/tools/enumerate.sty" 1700599895 3468 0ef513f22d965f96b06adb5cff671cd7 ""
   "C:/Program Files/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Program Files/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "C:/Users/barte/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1748866335 81088 29d6fa367ac022d1b69251d68c0742e6 ""
+  "C:/Users/barte/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1749405506 81088 29d6fa367ac022d1b69251d68c0742e6 ""
   "C:/Users/barte/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1748815371 24215230 1a9997ce4505b24f609f979f4e74e38a ""
   "C:/Users/barte/AppData/Roaming/MiKTeX/tex/generic/bigintcalc/bigintcalc.sty" 1576433602 40635 c40361e206be584d448876bba8a64a3b ""
   "C:/Users/barte/AppData/Roaming/MiKTeX/tex/generic/bitset/bitset.sty" 1575926576 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
@@ -207,12 +207,12 @@
   "C:/Users/barte/AppData/Roaming/MiKTeX/tex/latex/translator/translator-numbers-dictionary-English.dict" 1622471508 1638 2bf1a1dea98f8a4d28033fce76e9cc67 ""
   "C:/Users/barte/AppData/Roaming/MiKTeX/tex/latex/translator/translator-theorem-dictionary-English.dict" 1622471508 3523 1f9d9b91f7d78b73e74c7e97bca30fb0 ""
   "C:/Users/barte/AppData/Roaming/MiKTeX/tex/latex/translator/translator.sty" 1622471510 8765 56d370785f0143111ff9898b5adfe08e ""
-  "Chess.aux" 1749032193 4703 aba3d63e7f1ab1f0f7cca3316a336d8d "pdflatex"
-  "Chess.nav" 1749032193 2786 75d53954eb368d0bfe7def1bdbd1554d "pdflatex"
-  "Chess.out" 1749032193 1400 5cfec5be6c1095f5ec797935b45006a3 "pdflatex"
+  "Chess.aux" 1749538997 4703 aba3d63e7f1ab1f0f7cca3316a336d8d "pdflatex"
+  "Chess.nav" 1749538997 2786 75d53954eb368d0bfe7def1bdbd1554d "pdflatex"
+  "Chess.out" 1749538997 1400 5cfec5be6c1095f5ec797935b45006a3 "pdflatex"
   "Chess.tex" 1748866679 3130 879f5de1867171605c32f935da6f2566 ""
-  "Chess.toc" 1749032193 550 2a52a5a0dfedfb472082ffd82ac8c016 "pdflatex"
-  "c:/Users/barte/OneDrive/Pulpit/R/Chess/LatexChess/Chess.tex" 1748866679 3130 879f5de1867171605c32f935da6f2566 ""
+  "Chess.toc" 1749538997 550 2a52a5a0dfedfb472082ffd82ac8c016 "pdflatex"
+  "c:/Users/barte/Desktop/Projekty/R/Chess/LatexChess/Chess.tex" 1748866679 3130 879f5de1867171605c32f935da6f2566 ""
   (generated)
   "Chess.aux"
   "Chess.log"

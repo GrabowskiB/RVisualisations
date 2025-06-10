@@ -1,6 +1,6 @@
-PWD c:\Users\barte\OneDrive\Pulpit\R\Chess\LatexChess
+PWD c:\Users\barte\Desktop\Projekty\R\Chess\LatexChess
 INPUT C:\Users\barte\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\barte\OneDrive\Pulpit\R\Chess\LatexChess\Chess.tex
+INPUT c:\Users\barte\Desktop\Projekty\R\Chess\LatexChess\Chess.tex
 OUTPUT Chess.log
 INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamer.cls
 INPUT C:\Users\barte\AppData\Roaming\MiKTeX\tex\latex\beamer\beamer.cls

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.6.2)  4 JUN 2025 12:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.6.2)  10 JUN 2025 09:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/barte/OneDrive/Pulpit/R/Chess/LatexChess/Chess.tex
-(c:/Users/barte/OneDrive/Pulpit/R/Chess/LatexChess/Chess.tex
+**c:/Users/barte/Desktop/Projekty/R/Chess/LatexChess/Chess.tex
+(c:/Users/barte/Desktop/Projekty/R/Chess/LatexChess/Chess.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\barte\AppData\Roaming\MiKTeX\tex/latex/beamer\beamer.cls
@@ -873,14 +873,14 @@ Package rerunfilecheck Info: File `Chess.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  22921 strings out of 474486
- 437837 string characters out of 5753571
+ 437848 string characters out of 5753571
  1933542 words of memory out of 5000000
  44686 multiletter control sequences out of 15000+600000
  596093 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,14n,123p,454b,574s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,14n,123p,455b,574s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on Chess.pdf (11 pages, 1695104 bytes).
+Output written on Chess.pdf (11 pages, 1695081 bytes).
 PDF statistics:
  378 PDF objects out of 1000 (max. 8388607)
  32 named destinations out of 1000 (max. 500000)
