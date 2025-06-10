@@ -116,9 +116,9 @@ check_r_version <- function() {
 
 # Function to display package information
 display_package_info <- function() {
-  cat("\n" , "=".repeat(60), "\n")
+  cat("\n", paste(rep("=", 60), collapse = ""), "\n")
   cat("R DATA ANALYSIS PROJECT - PACKAGE REQUIREMENTS\n")
-  cat("=".repeat(60), "\n")
+  cat(paste(rep("=", 60), collapse = ""), "\n")
   
   cat("\nProject Dependencies:\n")
   cat("• Chess Championships Analysis: ggplot2, plotly, networkD3, dplyr, tidyr\n")
@@ -143,9 +143,9 @@ main <- function() {
   install_missing_packages(required_packages)
   load_packages(required_packages)
   
-  cat("\n" , "=".repeat(60), "\n")
+  cat("\n", paste(rep("=", 60), collapse = ""), "\n")
   cat("SETUP COMPLETE! You can now run the analysis scripts.\n")
-  cat("=".repeat(60), "\n")
+  cat(paste(rep("=", 60), collapse = ""), "\n")
   
   cat("\nNext steps:\n")
   cat("1. Run: source('Chess/chess-analysis.r')\n")
