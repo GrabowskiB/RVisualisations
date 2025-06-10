@@ -12,7 +12,7 @@ This repository showcases three distinct data analysis projects covering diverse
 ## 📊 Featured Projects
 
 ### 1. Chess Championships Analysis
-![Chess Analysis](ChessPlots\openings_by_decade.png)
+![Chess Analysis](ChessPlots/openings_by_decade.png)
 
 **Key Features:**
 - Analysis of 1,000+ world championship games
@@ -23,7 +23,7 @@ This repository showcases three distinct data analysis projects covering diverse
 **Technologies:** `ggplot2`, `plotly`, `networkD3`, `dplyr`, `tidyr`
 
 ### 2. Geomagnetic Pole Tracking
-![Geomagnetic Analysis](NorthPoleLocationsPlots\igrf_north_pole_wander_map_labels.png)
+![Geomagnetic Analysis](NorthPoleLocationsPlots/igrf_north_pole_wander_map_labels.png)
 
 **Key Features:**
 - IGRF model data visualization (1590-2025)
@@ -34,7 +34,7 @@ This repository showcases three distinct data analysis projects covering diverse
 **Technologies:** `sf`, `rnaturalearth`, `ggplot2`, `viridis`, `patchwork`
 
 ### 3. Donald Trump's Social Media Analytics
-![Twitter Analysis](TrumpTweetsPlots\sentiment_over_time.png)
+![Twitter Analysis](TrumpTweetsPlots/sentiment_over_time.png)
 
 **Key Features:**
 - Text mining and preprocessing
